@@ -12,7 +12,12 @@
 
 <p align="center">
   <h3 align="center">🏋️‍♂️ Assistente de Personal Trainer - Gerador de Treino Ideal</h3>
-Este projeto é um desafio de Prompt Engineer, onde o objetivo é criar um prompt que ajuda a montar o treino ideal para cada combinação de fatores, como biotipo corporal, disponibilidade de tempo e tipo de exercícios preferidos. O assistente de personal trainer gerado por esse prompt será capaz de personalizar os treinos de acordo com as características e necessidades do usuário.
+Esse repositório é uma cópia do repositório do meu professor.
+
+AQUI EU ADICIONEI NO FINAL DA PÁGINA O MEU MODELO DE PROMPT
+- Fiz isso para treinar o que aprendi na aula.
+-
+-   projeto é um desafio de Prompt Engineer, onde o objetivo é criar um prompt que ajuda a montar o treino ideal para cada combinação de fatores, como biotipo corporal, disponibilidade de tempo e tipo de exercícios preferidos. O assistente de personal trainer gerado por esse prompt será capaz de personalizar os treinos de acordo com as características e necessidades do usuário.
 O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 </p>
 
@@ -120,4 +125,121 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ---
 
-## 🎯 Prompt de Resposta Proposto
+## 🎯 Prompt de Resposta gerado através do prompt proposto pela aluna
+
+Perfeito! Vamos montar um treino para chegarmos juntos no seu objetivo
+
+Biotipo: Endomorfo (tem mais facilidade para ganhar gordura, então o foco é queimar calorias e manter músculo)
+
+Frequência: 5 dias por semana
+
+Divisão: Treino ABCDE
+
+Estilo: Funcional e Crossfit (exercícios dinâmicos, corpo inteiro, intensidade alta)
+
+🏋️‍♀️ Treino ABCDE Funcional + CrossFit 
+
+ A - MEMBROS INFERIORES (PERNAS + GLÚTEOS)
+ 
+Aquecimento: 5 min de polichinelo + agachamento com peso corporal
+
+Agachamento com halteres – 4x12
+
+Afundo alternado com passada – 3x12 por perna
+
+Stiff com kettlebell – 3x10
+
+Pliometria (caixa/step up com salto) – 3x10
+
+Finalização: 3 rounds – 30 seg de corrida no lugar + 10 agachamentos + 10 burpees
+
+
+B - PEITO + CARDIO INTENSO
+
+Aquecimento: 2 rounds de 20 mountain climbers + 10 flexões
+
+Flexão de braço – 4x10 (ajoelhado ou tradicional)
+
+Flexão com batida de ombro – 3x8
+
+Supino com halteres ou elástico – 4x12
+
+Corrida estacionária + burpee (EMOM) – 10 min (a cada minuto: 5 burpees + 20 seg de corrida)
+
+C - COSTAS + CORE
+ 
+Aquecimento: 3x 15 seg prancha + 10 anjos invertidos
+
+Remada com halteres ou elástico – 3x12
+
+Superman com pausa – 4x15
+
+Prancha isométrica – 3x 30 seg
+
+Abdominal com perna estendida + toque no pé – 3x20
+
+Finalização: 3 rounds – 20 Russian twists + 15 mountain climbers + 10 burpees
+
+
+D – PERNAS E CORE (foco em potência e queima calórica)
+
+Aquecimento: 4 min circuito – 20 agachamentos + 10 saltos verticais
+
+Agachamento com salto – 4x12
+
+Pistol squat assistido (ou agachamento unilateral) – 3x8 cada perna
+
+Prancha com joelho ao cotovelo – 3x10 cada lado
+
+Sit-up completo com bola ou halteres leves – 3x20
+
+Finalização estilo Tabata (20 seg on / 10 seg off por 4 min)
+
+Polichinelo
+
+Burpee
+
+Abdominal
+
+Corrida estacionária
+
+
+E – OMBROS + HIIT GERAL
+
+Aquecimento: 3 rounds – 10 polichinelos + 10 giros de braço + 10 agachamentos
+
+Desenvolvimento com halteres – 3x10
+
+Elevação frontal + lateral combinada – 3x12
+
+Pike push-up (flexão para ombros) – 3x8
+
+Final: circuito de 15 min AMRAP (o máximo de rounds possível)
+
+10 burpees
+
+10 swings com kettlebell ou mochila
+
+20 mountain climbers
+
+15 agachamentos
+
+
+
+Dicas extras maromba:
+Alimente-se bem antes e após o treino, focando em proteínas e controle de carboidratos.
+
+Priorize o descanso e o sono para recuperar e evitar acúmulo de gordura.
+
+Treinos intensos e variados como esse ajudam a acelerar o metabolismo e queimar gordura mantendo o músculo.
+
+
+
+
+
+
+ 
+ 
+
+
+
